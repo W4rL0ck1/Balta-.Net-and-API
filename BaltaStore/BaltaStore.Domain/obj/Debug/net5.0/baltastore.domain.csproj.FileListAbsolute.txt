@@ -1,0 +1,30 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Shared.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\ref\BaltaStore.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Shared.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csproj.CopyComplete
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\ref\BaltaStore.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.deps.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\ref\BaltaStore.Domain.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Domain.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Shared.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\bin\Debug\net5.0\BaltaStore.Shared.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csprojAssemblyReference.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.csproj.CopyComplete
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\ref\BaltaStore.Domain.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Domain\obj\Debug\net5.0\BaltaStore.Domain.pdb

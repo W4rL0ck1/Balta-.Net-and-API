@@ -1,0 +1,22 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.deps.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\bin\Debug\net5.0\BaltaStore.Infra.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfoInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.AssemblyInfo.cs
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.csproj.CoreCompileInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\ref\BaltaStore.Infra.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Infra\obj\Debug\net5.0\BaltaStore.Infra.pdb

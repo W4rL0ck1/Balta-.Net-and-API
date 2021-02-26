@@ -1,0 +1,24 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\ref\BaltaStore.Shared.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\ref\BaltaStore.Shared.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.deps.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\ref\BaltaStore.Shared.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\bin\Debug\net5.0\BaltaStore.Shared.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.csprojAssemblyReference.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.AssemblyInfoInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.AssemblyInfo.cs
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.csproj.CoreCompileInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\ref\BaltaStore.Shared.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Shared\obj\Debug\net5.0\BaltaStore.Shared.pdb

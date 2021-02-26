@@ -1,0 +1,46 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.exe
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\ref\BaltaStore.Api.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\staticwebassets\BaltaStore.Api.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\staticwebassets\BaltaStore.Api.StaticWebAssets.xml
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\scopedcss\bundle\BaltaStore.Api.styles.css
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\ref\BaltaStore.Api.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.genruntimeconfig.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\appsettings.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.exe
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.deps.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.runtimeconfig.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.runtimeconfig.dev.json
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\ref\BaltaStore.Api.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\bin\Debug\net5.0\BaltaStore.Api.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.csprojAssemblyReference.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.AssemblyInfoInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.AssemblyInfo.cs
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\staticwebassets\BaltaStore.Api.StaticWebAssets.Manifest.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\staticwebassets\BaltaStore.Api.StaticWebAssets.xml
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\scopedcss\bundle\BaltaStore.Api.styles.css
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.RazorTargetAssemblyInfo.cache
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\ref\BaltaStore.Api.dll
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.pdb
+C:\dev\Modal\ControleGeralModalgr\Projetos\Balta .Net and API\BaltaStore\BaltaStore.Api\obj\Debug\net5.0\BaltaStore.Api.genruntimeconfig.cache

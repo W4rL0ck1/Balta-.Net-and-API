@@ -1,0 +1,15 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.csproj.CopyComplete
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.Infra.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Infra\obj\Debug\netcoreapp3.1\Todo.Domain.Infra.genruntimeconfig.cache

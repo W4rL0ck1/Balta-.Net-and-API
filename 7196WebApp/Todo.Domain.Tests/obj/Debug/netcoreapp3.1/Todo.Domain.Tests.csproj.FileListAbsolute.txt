@@ -1,0 +1,12 @@
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.deps.json
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.AssemblyInfo.cs
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\Users\Lenovo T430\Desktop\Modal\ControleGeralModalgr\Projetos\7196WebApp\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csproj.CopyComplete
